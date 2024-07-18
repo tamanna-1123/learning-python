@@ -10,4 +10,7 @@ elif 50<=x<=59:
 elif 40<=x<=49:
     print("E")
 else:
-    print("Fail")        
+    print("Fail")  
+    
+    
+    tamanna      
